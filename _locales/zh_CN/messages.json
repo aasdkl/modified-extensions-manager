@@ -1,0 +1,22 @@
+﻿{
+   "areyousuretouninstallthis": {
+      "description": "Are you sure to uninstall the entension : ",
+      "message": "确定要卸载扩展："
+   },
+   "extname": {
+      "description": "extension",
+      "message": "extensions"
+   },
+   "iconx": {
+      "description": "",
+      "message": "55px"
+   },
+   "rightclicktouninstallthis": {
+      "description": "Right-click to uninstall this extension.",
+      "message": "单击右键卸载该扩展"
+   },
+   "textindent": {
+      "description": "",
+      "message": "80px"
+   }
+}

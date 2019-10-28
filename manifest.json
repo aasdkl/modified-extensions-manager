@@ -1,0 +1,18 @@
+{
+   "manifest_version": 2,
+   "name": "extensions",
+   "description": " “一键管理所有扩展” 个人修改版 ",
+   "version": "1.0.0.0",
+   "browser_action": {
+      "default_icon": "./icon/icon32.png",
+      "default_popup": "popup.html",
+      "default_title": "extension"
+   },
+   "default_locale": "zh_CN",
+   "icons": {
+      "128": "./icon/icon128.png",
+      "32": "./icon/icon32.png",
+      "64": "./icon/icon64.png"
+   },
+   "permissions": [ "management", "tabs" ]
+}
