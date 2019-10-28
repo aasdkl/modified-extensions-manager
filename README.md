@@ -10,7 +10,7 @@ https://github.com/8427003/google-extensions-manage
 
 ## 功能列表
 
-![screenshot](.\img\screenshot.png)
+![screenshot](./img/screenshot.png)
 
 ### **原有功能：**
 
